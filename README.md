@@ -21,7 +21,7 @@ To be able to run it, the dataset must be downloaded and the code configured.
 
 # Configuration
 
-The **config** in the K2_Code folder has to be edited with the path of four elements:
+The **config** file in the **K2_Code** folder has to be edited with the path of four elements:
 1. **The folder where this repository is placed**
 2. **Path to the data folder** ( in the dataset: [...]/uol_social_interaction_dataset/social_interaction_segmentation/extrated_data)
 3. **Path to the csv annotation file**
